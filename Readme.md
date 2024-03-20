@@ -4,3 +4,5 @@
 
 Para ejecutar el sistema, debes poner:
 ```npm install reat```
+
+sistema de registro 2
